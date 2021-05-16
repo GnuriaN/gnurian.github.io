@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/python_img.png
+image: images/python_img.jpg
 title: Python Roadmap
 permalink: projects/python_roadmap
 # All dates must be YYYY-MM-DD format!
