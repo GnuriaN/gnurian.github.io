@@ -5,7 +5,7 @@ image:
 title: Automation-QA
 permalink: projects/automation_qa
 # All dates must be YYYY-MM-DD format!
-date: 2016-05-19
+date: 2020-02-05
 labels:
   - Markdown
   - Learning
