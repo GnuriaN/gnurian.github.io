@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Ruslan Prokhorov",
-    "label": "Senior Anykey",
+    "name": "I'm Ruslan Prokhorov",
+    "label": "and I'm Senior anykey ...",
     "picture": "https://avatars.githubusercontent.com/u/5384215?v=4",
     "email": "job@sabaka.net",
     "phone": "+7 9xx xxx xx xx",
     "website": "https://gnurian.github.io/",
-    "summary": "About me",
+    "summary": "Information technology is not a job. This is a style of life, it's when you learn what you like and what brings pleasure, always and everywhere. Now I am developing automated tests on Python and studying everything related to testing and auto-test. Previously, I was engaged in the creation and maintenance of its infrastructure in small companies. I had to create the infrastructure from scratch, had to maintain the existing one, as well as to make modernization. My area of interest also includes information security.",
     "location": {
       "address": "",
       "postalCode": "",
