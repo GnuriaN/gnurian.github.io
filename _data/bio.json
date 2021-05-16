@@ -144,15 +144,90 @@
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Sabaka[DOT]Net",
+      "position": "IT Consultant",
+      "website": "http://sabaka.net",
+      "startDate": "2001-01-01",
+      "endDate": "Present",
+      "summary": "-",
+      "highlights": [
+        "Implementation of Microsoft SharePoint Foundation (as an auxiliary system for document management)",
+        "Implementation of IP PBX based on Elastix (Asterisk, FreePBX)",
+        "Configuring a Cloud VoIP PBX",
+        "A full cycle of work on creating a mini data center."
+      ]
+    },
+    {
+      "company": "SKS plus",
+      "position": "Technology and process specialist",
+      "website": "https://sksnnplus.ru",
+      "startDate": "2016-10-01",
+      "endDate": "2018-07-14",
       "summary": "",
       "highlights": [
-        "",
-        ""
+        "IT infrastructure development",
+        "Development of technological processes",
+        "Integration of processes into it infrastructure"
+      ]
+    },
+    {
+      "company": "SpecStroiInzhiniring",
+      "position": "System administrator",
+      "website": "http://www.ssen.ru",
+      "startDate": "2014-05-01",
+      "endDate": "2016-09-01",
+      "summary": "",
+      "highlights": [
+        "Management, support and development of information infrastructure of the enterprise."
+      ]
+    },
+    {
+      "company": "Trading house FoxTank",
+      "position": "System administrator",
+      "website": "https://www.foxtank.ru",
+      "startDate": "2014-05-01",
+      "endDate": "2014-10-01",
+      "summary": "",
+      "highlights": [
+        "Management, support and development of information infrastructure of the enterprise."
+      ]
+    },
+    {
+      "company": "VolgaSpecStroi",
+      "position": "System administrator",
+      "website": "http://www.vss-volga.ru",
+      "startDate": "2014-05-01",
+      "endDate": "2014-10-01",
+      "summary": "",
+      "highlights": [
+        "Management, support and development of information infrastructure of the enterprise.",
+        "User support as a first line support specialist",
+        "Selection and purchase of computers and peripherals",
+        "Planning and execution of the budget of the enterprise IT, mobile communications and fixed communications",
+        "Negotiating with suppliers of goods and services, procurement tenders",
+        "Inclusion of additional premises in the local network",
+        "Load distribution on the local area network"
+      ]
+    },
+    {
+      "company": "Strigino Airport PSC",
+      "position": "Engineer of Department of information support of production, IT&CS",
+      "website": "http://goj.aero",
+      "startDate": "2014-05-01",
+      "endDate": "2014-10-01",
+      "summary": "",
+      "highlights": [
+        "Provide enterprise migration from Windows server 2000 to Windows Server 2003",
+        "Introduction of a number of activities for licensing the company",
+        "Changing the structure of local networks. A network of networks. VLSM",
+        "Implementation of the FIDS (Flight Information Display System) system: installation of equipment, deployment and configuration of the software",
+        "Implementation of DCS Astra system: installation of equipment, deployment and configuration of the software complex",
+        "Implementation of virtualization technologies based on VMWare vSphera 4/5 and transition to Windows Server 2008 R2",
+        "Implementation Of Active Directory",
+        "Implementation Of Microsoft Forefront",
+        "Implementation Of Kaspersky Security Center",
+        "Implementation of Icinga and Cacti monitoring system",
+        "Introduction of video surveillance system based on Trassir server"
       ]
     }
   ],
