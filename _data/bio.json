@@ -86,7 +86,7 @@
       "level": "",
       "keywords": [
         "GNU Linux Ubuntu",
-        "Windosws 10"
+        "Windows 10"
       ]
     }
   ],
@@ -107,14 +107,40 @@
   "work": [
     {
       "company": "Auriga",
+      "position": "Senior Software Engineer",
+      "website": "https://auriga.com",
+      "startDate": "2020-06-15",
+      "endDate": "Present",
+      "summary": "Technical Lead by system infrastructure",
+      "highlights": [
+        "-",
+        "-"
+      ]
+    },
+    {
+      "company": "Auriga",
       "position": "Software Engineer",
       "website": "https://auriga.com",
-      "startDate": "2018-06-15",
-      "endDate": "Present",
-      "summary": "Tech lead",
+      "startDate": "2019-06-01",
+      "endDate": "2020-06-01",
+      "summary": "Specialist",
       "highlights": [
-        "Development of internal services for automation",
+        "Development of test scripts for medical equipment",
+        "Setting up tasks for Jenkins (single Jobs)",
         "Development and modification of environmental"
+      ]
+    },
+    {
+      "company": "Auriga",
+      "position": "Junior Software Engineer",
+      "website": "https://auriga.com",
+      "startDate": "2018-07-15",
+      "endDate": "2019-06-01",
+      "summary": "-",
+      "highlights": [
+        "Development of test scripts for medical equipment",
+        "Development and modification of environmental scripts and project builds (batch/Python)",
+        "Setting up tasks for Jenkins"
       ]
     },
     {
